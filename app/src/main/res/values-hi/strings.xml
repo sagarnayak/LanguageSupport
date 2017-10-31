@@ -5,4 +5,5 @@
     <string name="english">English</string>
     <string name="hindi">हिंदी</string>
     <string name="enter_your_name">अपना नाम दर्ज करें</string>
+    <string name="change_language">भाषा बदलो</string>
 </resources>

@@ -4,4 +4,10 @@
     <string name="english">English</string>
     <string name="hindi">हिंदी</string>
     <string name="enter_your_name">enter your name</string>
+    <string name="title_activity_launcher">Launcher</string>
+    <string name="language_change_inside_app">Language change inside App</string>
+    <string name="language_change_in_device">Language change in device</string>
+    <string name="title_activity_language_change_in_app">LanguageChangeInApp</string>
+    <string name="title_activity_language_change_in_device">LanguageChangeInDevice</string>
+    <string name="change_language">Change Language</string>
 </resources>
